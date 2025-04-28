@@ -1,10 +1,10 @@
 
 
-## 📸 Demo
+## 📸 Presenation
 
 Watch a full walkthrough of **Pregait** in action:
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/oZkk428M550/0.jpg)](https://youtu.be/oZkk428M550)
+[![Watch My presentation on YouTube](https://img.youtube.com/vi/oZkk428M550/0.jpg)](https://youtu.be/oZkk428M550)
 
 👉 **Click the image above** or [watch the demo here](https://youtu.be/oZkk428M550).
 
