@@ -1,7 +1,4 @@
-Perfect! I'll update the **Demo** section to **embed the YouTube video** properly, keeping the professional README format.  
-Here’s the updated version of that section — and I’ll show you exactly where to place it:
 
----
 
 ## 📸 Demo
 
@@ -97,17 +94,6 @@ Our development process involved intensive user research, rapid prototyping, and
 
 Pregait's mission is to ensure that **no mother walks her journey alone**, regardless of geography or circumstance.
 
----
-
-## 📸 Demo
-
-Watch a full walkthrough of **Pregait** in action:
-
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/oZkk428M550/0.jpg)](https://youtu.be/oZkk428M550)
-
-👉 **Click the image above** or [watch the demo here](https://youtu.be/oZkk428M550).
-
----
 
 ## 📬 Contact
 
