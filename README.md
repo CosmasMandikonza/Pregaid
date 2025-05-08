@@ -108,11 +108,3 @@ Pregait's mission is to ensure that **no mother walks her journey alone**, regar
 `Healthcare` `Maternal Health` `Low-Resource Technology` `HIPAA Compliance` `Secure Communication` `Twilio` `GetStream.io`
 
 ---
-
-Would you also like me to show you **how to automatically add badges** like:
-- `Made with React`
-- `Verified by Twilio`
-- `HIPAA Compliant`
-at the top of your README to make it look **even more professional**? 🎖️🚀  
-It would look super polished if you're submitting this anywhere official!  
-Would you like that? 🎯
